@@ -1,0 +1,2 @@
+# foto
+GitHub Pages
